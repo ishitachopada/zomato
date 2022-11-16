@@ -4,7 +4,6 @@ import 'package:zomato/model.dart';
 
 class first extends StatelessWidget {
   model m = Get.put(model());
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
